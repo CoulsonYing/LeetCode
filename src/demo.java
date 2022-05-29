@@ -3,8 +3,7 @@ public class demo {
         int nCount = 2;
         int mCount = 1;
         int[] nums = new int[]{83,800};
-        int i = func(nCount, mCount, nums);
-        System.out.println(i);
+        System.out.println(func(nCount, mCount, nums));
     }
 
     public static int func(int nCount, int mCount, int[] nums){
