@@ -1,9 +1,6 @@
 public class demo {
     public static void main(String[] args) {
-        int nCount = 2;
-        int mCount = 1;
-        int[] nums = new int[]{83,800};
-        System.out.println(func(nCount, mCount, nums));
+
     }
 
     public static int func(int nCount, int mCount, int[] nums){
